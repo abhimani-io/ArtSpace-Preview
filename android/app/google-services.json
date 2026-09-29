@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097541906584",
+    "project_id": "artspace-free",
+    "storage_bucket": "artspace-free.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097541906584:android:842cfa5e0ea558814a60ed",
+        "android_client_info": {
+          "package_name": "com.example.new_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIoxJPiQNwYH7hBtkbdqMi5G9iqDu3hr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
